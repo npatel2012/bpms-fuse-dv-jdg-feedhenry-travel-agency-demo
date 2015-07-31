@@ -1,3 +1,8 @@
+
+*** This branch is dedicated to Phase 5 release ONLY! It is still work in progress ***
+======================================================================================
+
+
 JBoss BPM Suite & JBoss Fuse Travel Agency Integration Demo
 ===========================================================
 Demo based on JBoss BPM Suite and JBoss Fuse products to highlight migration to micro-services. The installation
